@@ -19,4 +19,4 @@
 - 📧 Contact: [nullland1027@outlook.com]
 - ⚡️ Open for 2026 Full-time opportunities!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullland1027)
+[![Haohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullland1027)](https://github.com/anuraghazra/github-readme-stats)
