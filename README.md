@@ -18,9 +18,7 @@
 - 💬 Ask me about: LLM, Protein-AI, or Autonomous Driving.
 - 📧 Contact: [nullland1027@outlook.com]
 - ⚡️ Open for 2026 Full-time opportunities!
-
 <p align="center">
-  <img src="https://github-readme-stats-gamma-three-37.vercel.app/api?username=nullland1027&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-gamma-three-37.vercel.app/api/top-langs?username=nullland1027&theme=tokyonight&layout=donut" alt="Top Langs" />
+  <img src="https://github-readme-stats-gamma-three-37.vercel.app/api?username=nullland1027&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-gamma-three-37.vercel.app/api/top-langs?username=nullland1027&theme=tokyonight&layout=donut" height="200" alt="Top Langs" />
 </p>
