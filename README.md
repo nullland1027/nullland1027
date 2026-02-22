@@ -18,3 +18,5 @@
 - 💬 Ask me about: LLM, Protein-AI, or Autonomous Driving.
 - 📧 Contact: [nullland1027@outlook.com]
 - ⚡️ Open for 2026 Full-time opportunities!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullland1027)
