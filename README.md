@@ -18,5 +18,3 @@
 - 💬 Ask me about: LLM, Protein-AI, or Autonomous Driving.
 - 📧 Contact: [nullland1027@outlook.com]
 - ⚡️ Open for 2026 Full-time opportunities!
-
-[![Haohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullland1027)]
