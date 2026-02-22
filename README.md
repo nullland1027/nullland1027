@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm ZhangHH 👋
 
-<!--
-**nullland1027/nullland1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 About Me
+- 🎓 **M.S. Candidate** in Computer Science at **Soochow University**, graduating in June 2026.
+- 🚗 **Algorithm Intern at Momenta**, working on Autonomous Driving systems (Perception/Planning).
+- 🤖 **Former LLM Algorithm Intern at Zhipu AI**, focused on model optimization and RAG systems.
+- 🧪 **Researching Bio-ProtRAG**: Cross-modal alignment for protein sequences using ESM-2 & PubMedBERT.
+- 🛠️ **Tech Stack**: C++ (High-performance), Python (AI/ML), Golang (Distributed Systems).
 
-Here are some ideas to get you started:
+### 🔍 Research Interests
+- **Large Language Models**: Architecture (Flash Attention, K-V Cache), LoRA, and RAG.
+- **Autonomous Driving**: Multi-modal perception and decision-making algorithms.
+- **Bio-AI**: Applying deep learning to protein engineering and sequence analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Status
